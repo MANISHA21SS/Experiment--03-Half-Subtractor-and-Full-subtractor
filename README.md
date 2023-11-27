@@ -57,15 +57,16 @@ Full subtractor:
 ![fullsubtractor truthtable](https://github.com/MANISHA21SS/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/147474298/d4560f61-4048-4c79-a232-888edb49d655)
 
 ##  RTL realization
+Half subtractor:
 ![halfsubtractor rtl diagram](https://github.com/MANISHA21SS/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/147474298/82cd8a54-2e88-4673-8c12-b8055db43568)
+Full subtractor:
 ![full subtractor rtl diagram](https://github.com/MANISHA21SS/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/147474298/a4e05dff-59a3-4e0e-9704-200e556e211e)
 
 ## Timing diagram 
 Half subtractor:
-![halfsubtractor timing diagram](https://github.com/MANISHA21SS/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/147474298/2b640d80-7875-40b4-b3c9-f4ec5bf7f6ce)
+![halfsubtractor timing diagram](https://github.com/MANISHA21SS/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/147474298/512b3087-7643-47fc-8bbf-46075c401587)
 Full subtractor:
-![fullsubtractor timing diagram](https://github.com/MANISHA21SS/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/147474298/65b25410-c420-484f-b1df-d29d84ab3913)
-
+![fullsubtractor timing diagram](https://github.com/MANISHA21SS/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/147474298/575b7f28-e786-4911-9a63-87a16b77ae75)
 
 ## Result:
 Thus the half subtractor and full subtractor circuits are designed and the truth tables is verified using quartus software.
